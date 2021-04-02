@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ghostblocks",
+  "name": "Ghost Blocks Renderer",
+  "description": "Render ghost blocks (block 36).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nur"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
